@@ -1,0 +1,148 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,900&family=Poltawski+Nowy:ital,wght@1,700&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Bruno+Ace&family=Merriweather:ital,wght@1,900&family=Poltawski+Nowy:ital,wght@1,700&display=swap');
+
+
+:root{
+    --rose: #F4E1ED;
+    --pink:var(--twiter);
+    --twiter:#50b7f5;
+    --baby:#c2e0f6;
+    --appleRed:#fc3c44;
+    --appleLogo:#f94c57;
+    --appleColor:#c2cad7;
+    --appleAddColors:#5856d5;
+    --appleIcons:#A6D2FF;
+    --applePalette:#c4c0c0;;
+    --appleFeed:#000000;
+}
+
+
+body {
+    padding:20px;
+    /* background-image: url(https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1681316390723-70O26DYGD92M1GC51HR5/AIVanGogh3x2.png?format=1000w); */
+    /* background-color: #000000; */
+    font-family: 'Merriweather', serif;
+    font-family: 'Poltawski Nowy', serif;
+  }
+  
+  h1{
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom:15;
+    color: var(--appleFeed);
+    font-family: 'Bruno Ace', cursive;
+    font-family: 'Merriweather', serif;
+    font-family: 'Poltawski Nowy', serif;
+    letter-spacing: 0.3em;
+  }
+  h2{
+    font-size:30;
+  }
+  
+  .established {
+    font-style: italic;
+  }
+  
+  h1, h2, p{
+    text-align: center;
+    
+  }
+    
+  p{
+    text-align: center;
+    color:var(--appleIcons);
+  }
+  ul li{
+    text-align: center;
+    list-style-type: none;
+    color:var(--appleIcons);
+  }
+    form{
+    text-align: center;
+    list-style-type: none;
+    color:var(--appleIcons);
+   
+  }
+  
+ form, ul, li, h1, h2, p{
+    width: 80%;
+    background-color: var(--appleLogo);
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+  }
+  
+  h1, h2 {
+    font-family: Impact, serif;
+  }
+  
+  .item li {
+    font-size:18px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    display: inline-block;
+  }
+  
+  .flavor, .dessert {
+    text-align: left;
+    width: 75%;
+  }
+  
+   input .price {
+    color:#000000;
+  }
+  hr{
+  border-width:5px;
+  height: 2px;
+  background-color: var(--appleIcons);
+  border-color: var(--rose);
+  }
+  .bottom-line{
+    margin-top:25px;
+  }
+
+  .btn{
+    display: inline-block;
+    margin-top: 1rem;
+    border-radius: 5rem;
+    background:var(--applePalette);
+    color: #fff;
+    padding: .9rem 3.5rem;
+    cursor: pointer;
+    
+}
+
+
+
+
+  /*FOOTER*/
+  footer{
+    font-size:14px;
+  }
+
+  a {
+    color: black;
+  }
+  
+  a:visited {
+    color:black;
+  }
+  
+  a:hover {
+    color: brown;
+  }
+  
+  a:active {
+    color:brown;
+  }
+  address{
+    margin-bottom:5px;
+  }
+  img{
+    display: block;
+    margin-top:-25px;
+    margin-left: auto;
+    margin-right: auto;
+  }

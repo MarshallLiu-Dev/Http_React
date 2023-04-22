@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Camisa",
+      "price": 59.9
+    },
+    {
+      "id": 2,
+      "name": "Calça vermelha",
+      "price": 90
+    },
+    {
+      "id": 3,
+      "name": "Boné aba reta",
+      "price": 29.9
+    },
+    {
+      "id": 4,
+      "name": "Sandalia Avaianas",
+      "price": 39.9
+    },
+    {
+      "id": 5,
+      "name": "Controle Xbox Series sem Fio",
+      "price": 399
+    },
+    {
+      "id": 6,
+      "name": "Controle Dualsense PS5 sem Fio",
+      "price": 378.31
+    },
+    {
+      "id": 7,
+      "name": " Console Playstation 5 825 GB Sony 4K",
+      "price": 4.049
+    },
+    {
+      "id": 8,
+      "name": "Console Xbox Series X 1 TB Microsoft",
+      "price": 5.489
+    },
+    {
+      "name": "IPhone 12 Pro Max",
+      "price": "4.999",
+      "id": 9
+    },
+    {
+      "name": "Magic Keyboard com Touch ID",
+      "price": "1.839",
+      "id": 10
+    },
+    {
+      "name": "Mac Mini M2 Pro ",
+      "price": "6.179",
+      "id": 11
+    }
+  ]
+}
