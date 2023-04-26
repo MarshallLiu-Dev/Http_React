@@ -1,26 +1,6 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Camisa",
-      "price": 59.9
-    },
-    {
-      "id": 2,
-      "name": "Calça vermelha",
-      "price": 90
-    },
-    {
-      "id": 3,
-      "name": "Boné aba reta",
-      "price": 29.9
-    },
-    {
-      "id": 4,
-      "name": "Sandalia Avaianas",
-      "price": 39.9
-    },
-    {
       "id": 5,
       "name": "Controle Xbox Series sem Fio",
       "price": 399
@@ -54,6 +34,31 @@
       "name": "Mac Mini M2 Pro ",
       "price": "6.179",
       "id": 11
+    },
+    {
+      "name": "Apple HomePod Mini",
+      "price": "830",
+      "id": 12
+    },
+    {
+      "name": "Apple Studio Display",
+      "price": "15.499",
+      "id": 15
+    },
+    {
+      "name": "Apple AirTag",
+      "price": "369",
+      "id": 16
+    },
+    {
+      "name": "TORO FREEDOM TURBO 270 FLEX AT6 2023",
+      "price": "161.425",
+      "id": 17
+    },
+    {
+      "name": "voltz evs",
+      "price": "24.990",
+      "id": 18
     }
   ]
 }

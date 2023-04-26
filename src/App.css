@@ -51,23 +51,23 @@ body {
     
   p{
     text-align: center;
-    color:var(--appleIcons);
+    color:var(----appleFeed);
   }
   ul li{
     text-align: center;
     list-style-type: none;
-    color:var(--appleIcons);
+    color:var(----appleFeed);
   }
     form{
     text-align: center;
     list-style-type: none;
-    color:var(--appleIcons);
+    color:var(--appleFeed);
    
   }
   
  form, ul, li, h1, h2, p{
     width: 80%;
-    background-color: var(--appleLogo);
+    background-color: var(--twiter);
     margin-left: auto;
     margin-right: auto;
     padding: 20px;
@@ -107,13 +107,26 @@ body {
     display: inline-block;
     margin-top: 1rem;
     border-radius: 5rem;
-    background:var(--applePalette);
+    background:var(--appleLogo);
     color: #fff;
     padding: .9rem 3.5rem;
     cursor: pointer;
     
 }
 
+ .btn:hover {
+    border-color: var(--rose);
+    color: var(--appleIcons);
+    background-color: var(--appleAddColors);
+  }
+  .btnExcluir{
+    padding: 3px;
+    border-radius: 5rem;
+    margin-left: 9px;
+    display: inline-block;
+    background:var(--appleLogo);
+    color: #fff;
+  }
 
 
 
